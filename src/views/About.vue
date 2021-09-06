@@ -2,6 +2,7 @@
   <div class="about">
     <h1>{{id}}</h1>
     <div ref="chart" style="height: 500px;width: 600px;"></div>
+    <div>查看内容</div>
   </div>
 </template>
 <script>
